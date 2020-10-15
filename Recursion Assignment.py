@@ -1,3 +1,4 @@
+# code for fibonnaci sequence
 def fib(num):
     if num <= 1:
         return num
